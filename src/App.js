@@ -8,7 +8,7 @@ import { FoodCard } from "./FoodCard";
 
 
 const App= ()=>{
-    const [foodList,updateFoodList]=useState([{foodUrl:"https://allchickenrecipe.com/wp-content/uploads/2020/05/Chicken-Momos-500x375.jpg" ,
+    const [foodList,updateFoodList]=useState([{foodUrl:"https://allchickenrecipe.com/wp-content/uploads/2020/05/Chicken-Momos-500x375.jpggit" ,
 foodName:"Chicken Momos",id:"1"},
 {foodUrl:"https://img.freepik.com/free-photo/fresh-gourmet-sandwich-with-meat-vegetables-generative-ai_188544-8106.jpg?size=626&ext=jpg&ga=GA1.1.1880011253.1698883200&semt=ais",
 foodName:"Chicken Shawarma",id:"2"},
